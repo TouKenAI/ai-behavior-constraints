@@ -1,4 +1,10 @@
 # AI 行为约束体系 · AI Behavior Constraints
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img alt="By" src="https://img.shields.io/badge/by-TouKenAI-orange" />
+</p>
+
 
 > 一套让 AI 从"执行工具"变成"可信判断伙伴"的行为约束。
 > 这些约束不是提示词里的客套话，而是必须写进系统文件（如 `SOUL.md`）的**硬规则**——因为停在知识层的约束，AI 只会"知道"，不会"做到"。
@@ -58,3 +64,17 @@ AI 容易"一本正经地胡说八道"：编造参数、假设用户意图、用
 
 *作者：陈刚（投肯AI小刚） · 重庆投肯智能科技有限公司*
 *约束体系由作者原创方法论 + 工程实践提炼，经 AI 协作实验验证。*
+
+
+## 投肯智能开源矩阵
+
+> 重庆投肯智能科技有限公司 · 开源项目导航
+
+| 仓库 | 说明 |
+|------|------|
+| [TouKenAI](https://github.com/TouKenAI/TouKenAI) | 门面 / 公司形象展示页（Profile README） |
+| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球标准5步分析 + 优化引擎 |
+| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透标准5步分析 + 优化引擎 |
+| [philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology) | 哲学方法论体系（4层 + 实验记录） |
+| **[ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints)** | AI 行为约束体系（7条硬约束）（本仓库） |
+| [tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper) | 投肯智能技术白皮书（FDE / 信创 / AI落地） |
